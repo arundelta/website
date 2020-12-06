@@ -1,0 +1,8 @@
+data1 = '[{"name" : "Niroj",}
+    {"name": "ark"}
+
+
+
+
+]';
+data = '[{"name" : "Niroj", "age" : "22"},{"name" : "Dey", "age" : "20"}]';

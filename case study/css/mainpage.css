@@ -1,0 +1,37 @@
+*{
+      margin:0px;
+      }
+      @keyframes example 
+    {
+      from {background-color: #e3fcfc;}
+        to {background-color: #cad1c5;}
+    }
+
+    body{
+      animation-name: example;
+      animation-duration: 6s;
+      animation-delay: 1s;
+
+      /*background-image: url("idk3.jpg");
+      /ackground-color:#e3fcfc;
+      /*width:720px;height:720px;*/
+    }
+    h2{
+      font-family: "Futura";
+      font-weight: bold;
+      color: #121312d3;
+      background-color: transparent;
+      text-align: center;
+      width:28.125em ;
+      margin:.625em;
+      padding: .625em;
+      border:.3125em solid rgb(196, 15, 15);
+      margin-left:15%;
+      margin-top: 13%;
+    }
+    .loginform{
+      margin:5%; ;
+    }
+    form{
+      margin-left:33%;
+    }
